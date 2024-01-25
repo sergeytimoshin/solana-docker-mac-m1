@@ -19,7 +19,7 @@
 # Set directory used for all build generated files
 ARG CUBICLE=/root
 # Set your solana version here
-ARG SOLANA_VERSION=1.14.17
+ARG SOLANA_VERSION=1.17.17
 # Set folder name for intermediary files during build step
 ARG BUILD_OUTPUT_DIR=${CUBICLE}/solana-output
 
